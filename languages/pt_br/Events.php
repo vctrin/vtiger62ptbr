@@ -5,7 +5,7 @@
  * The Original Code is:vtiger CRM Open Source
  * The Initial Developer of the Original Code is vtiger.
  * Portions created by vtiger are Copyright (C) vtiger. All Rights Reserved.
- * Contributor(s): Valmir C. Trindade - Translated to Brazilian Portuguese - 09/01/2015 - www.ttcasolucoes.com.br
+ * Contributor(s): Valmir C. Trindade - Brazilian Portuguese Translation - valmir@ttcasolucoes.com.br
  ************************************************************************************/
 
 /* NOTE: Should be inline with Calendar language translation but few variations */
@@ -80,5 +80,8 @@ $languageStrings = array(
         //Priority picklist values 
         'High' => 'Alta', 
         'Medium' => 'Média', 
-        'Low' => 'Baixa', 
+        'Low' => 'Baixa',
+        //Missing value Pick List Activity type
+        'Mobile Call'=>'Chamada Celular',
+ 
 );
