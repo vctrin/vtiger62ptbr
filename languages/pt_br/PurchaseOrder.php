@@ -28,7 +28,8 @@ $languageStrings = array(
 	'Requisition No' => 'No. Requisição', 
 	'Sales Commission' => 'Comissão Vendas',
 	'SINGLE_PurchaseOrder' => 'Pedido Compra' , 
-	'Tracking Number'=> 'No. Rastreamento', 
+	'Tracking Number'=> 'No. Rastreamento',
+
 );
 
 $jsLanguageStrings = array(

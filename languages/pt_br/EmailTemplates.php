@@ -9,17 +9,17 @@
  *************************************************************************************/
 $languageStrings = array(
 	'LBL_ADD_RECORD' => 'Adicionar Modelo Email',
-	'SINGLE_EmailTemplates' => 'Modelo Email',
-	'LBL_EMAIL_TEMPLATES'=> 'Modelos Emails',
-	'LBL_EMAIL_TEMPLATE' => 'Modelo Email',
-	'LBL_TEMPLATE_NAME' => 'Nome Modelo',
 	'LBL_DESCRIPTION' => 'Descrição',
-	'LBL_SUBJECT' => 'Assunto',
+	'LBL_EMAIL_TEMPLATE_DESCRIPTION'=>'Gerenciar modelos para módulo Email',
+	'LBL_EMAIL_TEMPLATE' => 'Modelo Email',
+	'LBL_EMAIL_TEMPLATES'=> 'Modelos Emails',
 	'LBL_GENERAL_FIELDS' => 'Campos Gerais',
 	'LBL_SELECT_FIELD_TYPE' => 'Selecionar Tipo Campo',
-	'LBL_EMAIL_TEMPLATE_DESCRIPTION'=>'Gerenciar modelos para módulo Email',
+	'LBL_SUBJECT' => 'Assunto',
+	'LBL_TEMPLATE_NAME' => 'Nome Modelo',
+	'SINGLE_EmailTemplates' => 'Modelo Email',
 	
-	         //Patch provided by http://trac.vtiger.com/cgi-bin/trac.cgi/ticket/7884
+	//Patch provided by http://trac.vtiger.com/cgi-bin/trac.cgi/ticket/7884
         'Template Name' => 'Nome Modelo', 
         'Templatename' => 'Nome Modelo', 
         'Message' => 'Mensagem', 

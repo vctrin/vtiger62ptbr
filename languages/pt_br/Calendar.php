@@ -13,7 +13,7 @@ $languageStrings = array(
 	'Completed'=> 'Concluído', 
 	'Daily'=>'Dia(s)',
 	'Deferred' => 'Adiado',
-	'End Date & Time'=> 'Data & Hora Final' ,
+	'End Date & Time'=> 'Data/Hora Final' ,
 	'first' => 'Primeiro',
 	'ICAL_FORMAT' => 'Formato iCal',
 	'last' => 'Último',
@@ -38,8 +38,8 @@ $languageStrings = array(
 	'LBL_DAY6' => 'Sábado',
 	'LBL_DAY_OF_THE_MONTH' => 'dia do mês',
 	'LBL_DEFAULT_EVENT_DURATION' => 'Duração Padrão Evento',
-	'LBL_DEFAULT_STATUS_TYPE' => 'Status e Tipo Padrão',
 	'LBL_DELETE_CALENDAR' => 'Apagar Agenda',
+	'LBL_DEFAULT_STATUS_TYPE' => 'Status e Tipo Padrão',
 	'LBL_EDIT_COLOR' => 'Editar Cor',
 	'LBL_EDITING_CALENDAR_VIEW' => 'Editar Visualização Agenda',
 	'LBL_EVENT'=> 'Evento',
@@ -80,30 +80,20 @@ $languageStrings = array(
 	'Send Notification'=> 'Enviar Notificação', 
 	'SINGLE_Calendar'=> 'Tarefa' ,
 	'SINGLE_Events' => 'Evento', 
-	'Start Date & Time'=> 'Data & Hora Início', 
+	'Start Date & Time'=> 'Data/Hora Início', 
 	'Subject'=> 'Assunto' ,
 	'Tasks' => 'Tarefas',
 	'Task' => 'Tarefa',
 	'Weekly'=>'Semana(s)',
 	'Yearly'=>'Ano',
-    
-         //Patch provided by http://trac.vtiger.com/cgi-bin/trac.cgi/ticket/7884
-        'Start Date &amp; Time' => 'Data e Horário Início', 
-        'End Date &amp; Time' => 'Data e Horário Fim', 
-        'End Date' => 'End Date', 
-    
-        //Event Status picklist values 
-        'Held' => 'Realizado', 
-        'Not Held' => 'Não Realizado', 
-
-        // Missing Fields
-        'Selected Users'=>'Selecionar Usuários',
-        'Starting Day of the week'=>'Inicio Dia Semana',
-        'Day starts at'=>'Dia começa as',
-        'Date Format'=>'Formato Data',
-        'Calendar Hour Format'=>'Formato Hora',
-        'Time Zone'=>'Fuso Horário',
-        'Default Activity View'=>'Padrão Visualização Atividade',
+    // Missing Fields
+    'Selected Users'=>'Selecionar Usuários',
+    'Starting Day of the week'=>'Inicio Dia Semana',
+    'Day starts at'=>'Dia começa as',
+    'Date Format'=>'Formato Data',
+    'Calendar Hour Format'=>'Formato Hora',
+    'Time Zone'=>'Fuso Horário',
+    'Default Activity View'=>'Padrão Visualização Atividade',
 );
 
 $jsLanguageStrings = array(
@@ -112,12 +102,9 @@ $jsLanguageStrings = array(
 	'JS_CALENDAR_VIEW_DELETE_CONFIRMATION' => 'Você tem certeza que deseja apagar esta visualização da Agenda?',
 	'JS_CALENDAR_VIEW_DELETED_SUCCESSFULLY' => 'A vistualização da Agenda foi apagada com sucesso',
 	'JS_EDIT_CALENDAR' => 'Editar Agenda',
-    	'JS_FUTURE_EVENT_CANNOT_BE_HELD' => 'incompativel com',
+    'JS_FUTURE_EVENT_CANNOT_BE_HELD' => 'Não é pode ser realizado no futuro',
         'JS_NO_CALENDAR_VIEWS_TO_ADD' => 'Nenhuma visualização da Agenda para adicionar',
-        'JS_NO_DELETE_PERMISSION' => 'Você não tem permissão para apagar dados da Agenda.', 
-        'JS_NO_EDIT_PERMISSION' => 'Você não tem permissão para modificar dados da Agenda.', 
-    	'JS_TASK_IS_SUCCESSFULLY_ADDED_TO_YOUR_CALENDAR' => 'A Tarefa foi adicionada com sucesso em sua Agenda',
-        'JS_RECORD_DELETED' => 'Dados da Agenda apagagados com sucesso', 
+    'JS_TASK_IS_SUCCESSFULLY_ADDED_TO_YOUR_CALENDAR' => 'A Tarefa foi adicionada com sucesso em sua Agenda',
 	'LBL_ADD_EVENT_TASK' => 'Adicionar Evento / Tarefa',
 	'LBL_ALL_DAY' => 'Todos os Dias',
 	'LBL_APR' => 'Abr',
@@ -164,4 +151,9 @@ $jsLanguageStrings = array(
 	'LBL_WED' => 'Qua',
 	'LBL_WEEK' => 'Semana',
 	'Mobile Call' => 'Ligar para Celular',
+
+        //Missing Fields
+        'LBL_NOT_SYNCRONIZED'=>'Não sincronizado',
+        'FIELD_MAPPING'=>'Mapeamento Campo',
+
 );

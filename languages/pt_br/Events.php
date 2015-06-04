@@ -5,7 +5,7 @@
  * The Original Code is:vtiger CRM Open Source
  * The Initial Developer of the Original Code is vtiger.
  * Portions created by vtiger are Copyright (C) vtiger. All Rights Reserved.
- * Contributor(s): Valmir C. Trindade - Brazilian Portuguese Translation - valmir@ttcasolucoes.com.br
+ * Contributor(s): Valmir C. Trindade - Translated to Brazilian Portuguese - 26/04/2014 - www.ttcasolucoes.com.br
  ************************************************************************************/
 
 /* NOTE: Should be inline with Calendar language translation but few variations */
@@ -13,7 +13,7 @@
 $languageStrings = array(
 	'Activity Type'=> 'Tipo Atividade', 
 	'Busy' => 'Ocupado',
-	'Call' => 'Chamada' , 
+	'Call' => 'Chamadas' , 
 	'Daily'=>'Dia(s)',
 	'End Date & Time'=> 'Data & Hora Final' , 
 	'Events' => 'Eventos' , 
@@ -72,16 +72,9 @@ $languageStrings = array(
 	'Visibility' => 'Visibilidade',
 	'Weekly'=>'Semana(s)',
 	'Yearly'=>'Ano',
-    
-         //Patch provided by http://trac.vtiger.com/cgi-bin/trac.cgi/ticket/7884
-        'End Date &amp; Time' => 'Data e Hora Final', 
-        'Start Date &amp; Time'=>'Data e Hora Início', 
-    
-        //Priority picklist values 
-        'High' => 'Alta', 
-        'Medium' => 'Média', 
-        'Low' => 'Baixa',
-        //Missing value Pick List Activity type
-        'Mobile Call'=>'Chamada Celular',
- 
+
+	//Missing Fields
+	'Mobile Call' => 'Chamada Celular',
+
+
 );

@@ -65,9 +65,10 @@ $languageStrings = array(
         //Missing Fields
        'FIELD_MAPPING' => 'Mapeamento Campos',
 
-    );
-    $jsLanguageStrings = array(
+);
+
+$jsLanguageStrings = array(
         'LBL_NOT_SYNCRONIZE' => 'Você ainda não sincronizou',
         'LBL_SYNC_BUTTON' => 'Sincronizar Agora',
         'LBL_SYNCRONIZING' => 'Sincronizando....',
-    );
+);

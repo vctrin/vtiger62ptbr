@@ -5,7 +5,7 @@
  * The Original Code is:vtiger CRM Open Source
  * The Initial Developer of the Original Code is vtiger.
  * Portions created by vtiger are Copyright (C) vtiger. All Rights Reserved.
- * Contributor(s): Valmir C. Trindade - Brazilian Portuguese Translation - 09/01/2015 - www.ttcasolucoes.com.br
+ * Contributor(s): Valmir C. Trindade - Brazilian Portuguese Translation - 23/02/2015 - www.ttcasolucoes.com.br
  ************************************************************************************/
 $languageStrings = array(
 	'--None--' => '--Nada--',
@@ -351,7 +351,8 @@ $languageStrings = array(
 	'LBL_NEXT_FY'=> 'Próximo Ano' ,
 	'LBL_NEXT_MONTH' => 'Próximo Mês',
 	'LBL_NEXT_WEEK'=> 'Próxima Semana' ,
-	'LBL_NO' => 'Nenhum(a)',
+	'LBL_NO' => 'Não',
+	'LBL_EQ_ZERO' => 'Não',
 	'LBL_NONE' => 'Nada',
 	'LBL_NOTE' => 'Nota',
 	'LBL_NOTEPAD' => 'Bloco de Notas',
@@ -641,7 +642,8 @@ $languageStrings = array(
          //Patch provided by http://trac.vtiger.com/cgi-bin/trac.cgi/ticket/7884
         'Users' => 'Usuários', 
         'Service Requests' => 'Solicitação Serviço', 
-        'Terms &amp; Conditions' => 'Termos & Condições', 
+        'Terms &amp; Conditions' => 'Termos & Condições',
+	'LBL_CONVERSION_RATE'          => 'Taxa de Câmbio',
     
 	//Missing Fields
 	'PickListDependency'=>'Dependência Lista Opções',
@@ -732,7 +734,7 @@ $jsLanguageStrings = array(
 	'JS_CAN_NOT_REMOVE_DEFAULT_WIDGET' => 'Não é possível remover o Widget Padrão',
 	'JS_CHECK_FILE_INTEGRITY'=> 'Checar Integridade do Arquivo',
 	'JS_CONTAINS_ILLEGAL_CHARACTERS' => 'contém caracteres não permitidos' ,
-    'JS_CURRENT_DATE' => 'Data Atual',
+    	'JS_CURRENT_DATE' => 'Data Atual',
 	'JS_DO_NOT_HAVE_AN_EMAIL_ID' => 'não existe um endereço de email',
 	'JS_DUPLIACATE_ENTRIES_FOUND_FOR_THE_VALUE' => 'Foi encontrado valor duplicado',
 	'JS_DUPLICATE_ENTRIES_FOUND_FOR_THE_VALUE' => 'Foram encontradas entradas duplicadas para o valor',
@@ -760,7 +762,7 @@ $jsLanguageStrings = array(
 	'JS_MAP_MANDATORY_FIELDS'=> 'Por favor, mapear campos obrigatórios' ,
 	'JS_MAP_NAME_ALREADY_EXISTS' => 'Nome do Mapa já existente' ,
 	'JS_MAP_NAME_CAN_NOT_BE_EMPTY' => 'O Nome do Mapa não pode estar vazio',
-    'JS_MASS_EDIT_LIMIT' => 'A operação de Editar em Massa pode ser realizada somente para até 500 registros por vez',
+    	'JS_MASS_EDIT_LIMIT' => 'A operação de Editar em Massa pode ser realizada somente para até 500 registros por vez',
 	'JS_MAX_FILE_UPLOAD_EXCEEDS' => 'Transferência máxima de arquivo excedeu',
 	'JS_MAX_TAG_LENGTH_EXCEEDS' => 'O comprimento da etiqueta excedeu o tamanho máximo',
 	'JS_MESSAGE' => 'Mensagem', //Duplicated key-value pairs
@@ -775,11 +777,11 @@ $jsLanguageStrings = array(
 	'JS_NO_VIEW_PERMISSION_AFTER_SAVE'=> 'Após salvar você não terá permissão para visualizar este registro. Deseja continuar?',
 	'JS_NUMBER_SHOULD_BE_LESS_THAN_32' => 'O número deve ser menor que 32',
 	'JS_PAGE_NOT_EXIST' => 'Página não existe',
-    'JS_PBX_CALL_FROM' => 'Chamada de',
-    'JS_PBX_FILL_ALL_FIELDS'=>'Por favor, preencha todos os campos',
-    'JS_PBX_INCOMING_CALL' => 'Chamada Recebida',
-    'JS_PBX_OUTGOING_FAILURE'=>'A Chamada Falhou',
-    'JS_PBX_OUTGOING_SUCCESS'=>'Pegue o telefone ou softfone para discar o número',
+    	'JS_PBX_CALL_FROM' => 'Chamada de',
+    	'JS_PBX_FILL_ALL_FIELDS'=>'Por favor, preencha todos os campos',
+    	'JS_PBX_INCOMING_CALL' => 'Chamada Recebida',
+    	'JS_PBX_OUTGOING_FAILURE'=>'A Chamada Falhou',
+    	'JS_PBX_OUTGOING_SUCCESS'=>'Pegue o telefone ou softfone para discar o número',
 	'JS_PERCENTAGE_VALUE_SHOULD_BE_LESS_THAN_100' => 'O valor percentual deve ser menor que 100',
 	'JS_PHONE_NUMBER_LENGTH_EXCEEDED' => 'comprimento do número de telefone excedeu o limite',
 	'JS_PLEASE_ENABLE_BASE_CURRENCY_FOR_PRODUCT' => 'Por favor, habilite a moeda padrão para o Produto',
@@ -809,10 +811,10 @@ $jsLanguageStrings = array(
 	'JS_REQUIRED_FIELD' => '* Este campo é obrigatório',
 	'JS_SELECTED_ACCOUNT_DOES_NOT_HAVE_AN_ADDRESS' => 'A Organização selecionada não possui um endereço para copiar',
 	'JS_SELECTED_CONTACT_DOES_NOT_HAVE_AN_ADDRESS' => 'O Contato selecionado não possui um endereço para copiar',
-    'JS_SELECT_ATLEAST_TWO_RECORD_FOR_MERGING' => 'Selecionar pelo menos dois registros para mesclar',
+    	'JS_SELECT_ATLEAST_TWO_RECORD_FOR_MERGING' => 'Selecionar pelo menos dois registros para mesclar',
 	'JS_SELECT_FILE_EXTENSION' => 'Por favor, selecione um arquivo com a seguinte extensão:',
 	'JS_SELECT_MODULE' => 'Por favor, selecione o Módulo', //Duplicated key-value pairs
-    'JS_SELECT_RECORDS_TO_MERGE_FROM_SAME_GROUP' => 'Você tem que selecionar os registros no mesmo grupo para mesclar',
+    	'JS_SELECT_RECORDS_TO_MERGE_FROM_SAME_GROUP' => 'Você tem que selecionar os registros no mesmo grupo para mesclar',
 	'JS_SHORTCUT_ALREADY_ADDED' => 'Este atalho já foi adicionado',
 	'JS_SHOULD_BE_GREATER_THAN_CURRENT_DATE' => 'deve ser maior que a Data Atual',
 	'JS_SHOULD_BE_GREATER_THAN_OR_EQUAL_TO' => 'deve ser maior ou igual a',
@@ -834,7 +836,7 @@ $jsLanguageStrings = array(
 	'JS_YOU_ARE_IN_PAGE_NUMBER' => 'Você está na página número',
 	'JS_YOU_CAN_SELECT_ONLY' => 'Você pode selecionar somente' ,
 	'LBL_DELETE_CONFIRMATION'=> 'Tem certeza que deseja Apagar?', // This is added as duplicate as we need to show different message for different modules. Ex:Accounts has different message
-    'LBL_DELETE_USER_CONFIRMATION' => 'Quando um Usuário é apagado, o mesmo será marcado como "Inativo", nenhum novo registro poderá ser designado para ele e não poderá acessar o Sistema. O faturamento será interrompido para este Usuário. Se desejar reativa-lo, você precisará enviar e-mail para support@vtiger.com. Você tem certeza que deseja apagar?', // UTILIZADO NO VTIGER ON DEMAND
+    	'LBL_DELETE_USER_CONFIRMATION' => 'Quando um Usuário é apagado, o mesmo será marcado como "Inativo", nenhum novo registro poderá ser designado para ele e não poderá acessar o Sistema. Você tem certeza que deseja apagar?', 
 	'LBL_IMAGE_DELETED_SUCCESSFULLY' => 'A imagem foi apagada com Sucesso',
 	'LBL_IMAGE_NOT_DELETED'=> 'A imagem não foi Apagada' ,
 	'LBL_MASS_DELETE_CONFIRMATION' => 'Tem certeza que deseja apagar os Registros selecionados?',
@@ -849,16 +851,16 @@ $jsLanguageStrings = array(
 	'SINGLE_Contacts' => 'Contato' ,
 	
 	//Promotion translations
-    'JS_HIDE_PROMOTION' => 'Ocultar Promoção',
-    'JS_SHOW_PROMOTION' => 'Exibir Promoção',
+    	'JS_HIDE_PROMOTION' => 'Ocultar Promoção',
+    	'JS_SHOW_PROMOTION' => 'Exibir Promoção',
 		
 	//Inventory module Translations
-    'JS_PLEASE_ENABLE_PRODUCT_OR_SERVICE_MODULE'=>'Por favor, habilite o Módulo de Produto ou Serviço',
+    	'JS_PLEASE_ENABLE_PRODUCT_OR_SERVICE_MODULE'=>'Por favor, habilite o Módulo de Produto ou Serviço',
 	'LBL_SYNC_BUTTON' => 'Sincronizar',
-    'LBL_SYNCRONIZING' => 'Sincronizando',
+    	'LBL_SYNCRONIZING' => 'Sincronizando',
 
-    'JS_RECORDS_TRANSFERRED_SUCCESSFULLY' => 'A propriedade dos registros foram transferidos com sucesso.',
-	
-	// Missing Field
+    	'JS_RECORDS_TRANSFERRED_SUCCESSFULLY' => 'A propriedade dos registros foram transferidos com sucesso.',
+
+    //Edit view mode Translations	
 	'JS_CHANGES_WILL_BE_LOST'=>'As mudanças realizadas serão perdidas!',
 );

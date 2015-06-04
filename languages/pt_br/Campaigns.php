@@ -5,7 +5,7 @@
  * The Original Code is:vtiger CRM Open Source
  * The Initial Developer of the Original Code is vtiger.
  * Portions created by vtiger are Copyright (C) vtiger. All Rights Reserved.
- * Contributor(s): Valmir C. Trindade - Brazilian Portuguese Translation - 09/01/2015 - www.ttcasolucoes.com.br
+ * Contributor(s): Valmir C. Trindade - Brazilian Portuguese Translation - 23/02/2015 - www.ttcasolucoes.com.br
  ************************************************************************************/
 $languageStrings = array(
 	'Actual Cost'=> 'Custo Atual', 
@@ -22,7 +22,7 @@ $languageStrings = array(
 	'Campaign Status'=> 'Status Campanha' , 
 	'Campaign Type' => 'Tipo Campanha', 
 	'Cancelled'=> 'Cancelada', 
-	'Complete'=> 'Completa', 
+	'Completed'=> 'Concluída', 
 	'Contacted - Never Contact Again' => 'Contactado - Nunca Contactar Novamente',
 	'Contacted - Successful' => 'Contactado - Sucesso', 
 	'Contacted - Unsuccessful'=> 'Contactado - Insucesso', 
