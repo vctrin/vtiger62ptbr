@@ -14,13 +14,13 @@ $languageStrings = array(
     'LBL_COPY_COMPANY_ADDRESS' => 'Copiar Endereço Empresa',
 	'LBL_COPY_SHIPPING_ADDRESS' => 'Copiar Endereço Entrega',
 	'LBL_EXPORT_TO_PDF'=> 'Exportar para PDF' ,
-	'LBL_IS_DELETED_FROM_THE_SYSTEM_PLEASE_REMOVE_OR_REPLACE_THIS_ITEM' => 'é excluído do Sistema. Por favor, remova ou substitua este item',
+	'LBL_IS_DELETED_FROM_THE_SYSTEM_PLEASE_REMOVE_OR_REPLACE_THIS_ITEM' => 'foi excluído do Sistema. Por favor, remova ou substitua este item',
     	'LBL_LIST_PRICE'               => 'Lista de Preços',
     'LBL_PAID' => 'Pago',
 	'LBL_PO_INFORMATION' => 'Detalhes Pedido Compra', 
 	'LBL_RECORDS_LIST' => 'Lista Pedidos Compra' ,
     'LBL_SEND_MAIL_PDF' => 'Enviar Email com PDF',
-	'LBL_THIS_LINE_ITEM_IS_DELETED_FROM_THE_SYSTEM_PLEASE_REMOVE_THIS_LINE_ITEM' => 'Este item da linha foi excluído do Sistema. Por favor, remova estes itens da linha',
+	'LBL_THIS_LINE_ITEM_IS_DELETED_FROM_THE_SYSTEM_PLEASE_REMOVE_THIS_LINE_ITEM' => 'Este foi excluído do Sistema. Por favor, remova o item da linha',
 	'LBL_THIS' => 'Este',
     	'List Price'                   => 'Lista de Preços',
 	'PurchaseOrder No' => 'No. Pedido Compra' , 
@@ -33,5 +33,5 @@ $languageStrings = array(
 );
 
 $jsLanguageStrings = array(
-	'JS_PLEASE_REMOVE_LINE_ITEM_THAT_IS_DELETED' => 'Por favor, remova o item da linha que será excluída',
+	'JS_PLEASE_REMOVE_LINE_ITEM_THAT_IS_DELETED' => 'Por favor, remova o item da linha que foi excluído',
 );
