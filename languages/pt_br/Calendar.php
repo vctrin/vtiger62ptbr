@@ -153,6 +153,7 @@ $jsLanguageStrings = array(
 	'Mobile Call' => 'Ligar para Celular',
 
         //Missing Fields
+	'JS_CONFIRM_MARK_AS_HELD'=>'Marcar como Realizado',
         'LBL_NOT_SYNCRONIZED'=>'Não sincronizado',
         'FIELD_MAPPING'=>'Mapeamento Campo',
 
