@@ -80,20 +80,22 @@ $languageStrings = array(
 	'Send Notification'=> 'Enviar Notificação', 
 	'SINGLE_Calendar'=> 'Tarefa' ,
 	'SINGLE_Events' => 'Evento', 
-	'Start Date & Time'=> 'Data/Hora Início', 
+	'Start Date & Time'=> 'Data & Hora Início', 
 	'Subject'=> 'Assunto' ,
 	'Tasks' => 'Tarefas',
 	'Task' => 'Tarefa',
 	'Weekly'=>'Semana(s)',
 	'Yearly'=>'Ano',
-    // Missing Fields
-    'Selected Users'=>'Selecionar Usuários',
-    'Starting Day of the week'=>'Inicio Dia Semana',
-    'Day starts at'=>'Dia começa as',
-    'Date Format'=>'Formato Data',
-    'Calendar Hour Format'=>'Formato Hora',
-    'Time Zone'=>'Fuso Horário',
-    'Default Activity View'=>'Padrão Visualização Atividade',
+        // Missing Fields
+        'Selected Users'=>'Selecionar Usuários',
+        'Starting Day of the week'=>'Inicio Dia Semana',
+        'Day starts at'=>'Dia começa as',
+        'Date Format'=>'Formato Data',
+        'Calendar Hour Format'=>'Formato Hora',
+        'Time Zone'=>'Fuso Horário',
+        'Default Activity View'=>'Padrão Visualização Atividade',
+	'Held'=>'Realizada',
+        'Not Held'=>'Nao Realizada',
 );
 
 $jsLanguageStrings = array(
@@ -153,8 +155,9 @@ $jsLanguageStrings = array(
 	'Mobile Call' => 'Ligar para Celular',
 
         //Missing Fields
-	'JS_CONFIRM_MARK_AS_HELD'=>'Marcar como Realizado',
         'LBL_NOT_SYNCRONIZED'=>'Não sincronizado',
         'FIELD_MAPPING'=>'Mapeamento Campo',
+	'JS_CONFIRM_MARK_AS_HELD'=>'Marcar como Realizado',
+	'JS_EVENT_MARKED_AS_HELD'=>'O Evento foi marcado como Realizado',
 
 );
