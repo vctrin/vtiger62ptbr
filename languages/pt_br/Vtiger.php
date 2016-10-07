@@ -719,6 +719,9 @@ $languageStrings = array(
 	'LBL_PROJECTS_LIST'=>'Lista de Projetos',
 	'LBL_TASKS_LIST'=>'Lista de Tarefas',
 	'LBL_MILESTONES_LIST'=>'Lista de Milestones',
+	
+	'LBL_NO_DUPLICATED_FOUND' => 'Nenhuma registro duplicado foi encontrado',
+
 
     	'Created By'=>'Criado Por',
 );
