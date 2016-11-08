@@ -5,6 +5,6 @@ express or implied. See the License for the specific language governing rights a
 under the License.<br>
 
 Language: Português Brasileiro <br>
-Version: 6.2.0 <br>
+Version: 6.5.0 <br>
 Author: Valmir C. Trindade/TTCA Soluções Ltda <br>
 www.ttcasolucoes.com.br
