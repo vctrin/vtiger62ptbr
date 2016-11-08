@@ -42,7 +42,7 @@ $languageStrings = array(
 	'LBL_CALCULATIONS' => 'Cálculos' , 
 	'LBL_CHOOSE_DATE' => 'Escolher Data',
 	'LBL_COLUMNS' => 'Colunas' , 
-	'LBL_CREATING_REPORT' => 'Crianado Relatório',
+	'LBL_CREATING_REPORT' => 'Criando Relatório',
 	'LBL_CUSTOMIZE' => 'Customizar',
 	'LBL_DAILY' => 'Diariamente',
 	'LBL_DENIED_REPORTS' => 'Relatórios Negados',
@@ -159,9 +159,9 @@ $languageStrings = array(
 	'LBL_MODIFY_CONDITION' => 'Modificar Condições',
 	'LBL_PLEASE_SELECT_ATLEAST_ONE_GROUP_FIELD_AND_DATA_FIELD' => 'Por favor, selecione pelo menos um Grupo de Campos e um campo de Dados.',
 	'LBL_FOR_BAR_GRAPH_AND_LINE_GRAPH_SELECT_3_MAX_DATA_FIELDS' => 'Para gráficos de Barras e Linha você pode selecionar no máximo de campos de Dados.',
-	'LBL_DETAIL_REPORT' => 'Detalhes do Relatório',
+	'LBL_DETAIL_REPORT' => 'Criar Relatório',
 	'LBL_PIVOT_REPORT' => 'Relatório Pivot',
-	'LBL_CHARTS' => 'Gráficos',
+	'LBL_CHARTS' => 'Criar Gráfico',
     //Schedule Reports - Mail Content
     'LBL_AUTO_GENERATED_REPORT_EMAIL' => 'Este é um email gerado automaticamente e enviado em função de um relatório agendado.',
 	
