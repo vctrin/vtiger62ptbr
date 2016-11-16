@@ -10,9 +10,9 @@
 $languageStrings = array(
 	'Activity Type'=> 'Tipo Atividade', 
 	'Call' => 'Chamada' , 
-	'Completed'=> 'Concluído', 
+	'Completed'=> 'Tarefa Concluída', 
 	'Daily'=>'Dia(s)',
-	'Deferred' => 'Adiado',
+	'Deferred' => 'Adiada',
 	'End Date & Time'=> 'Data/Hora Final' ,
 	'first' => 'Primeiro',
 	'ICAL_FORMAT' => 'Formato iCal',
@@ -74,9 +74,9 @@ $languageStrings = array(
 	'Medium' => 'Média',
 	'Meeting'=> 'Reunião',
 	'Monthly'=>'Mês(es)',
-	'Not Started'=> 'Não Iniciado' , 
+	'Not Started'=> 'Não Iniciada' , 
 	'Pending Input'=> 'Pendente', 
-	'Planned'=> 'Planejado' , 
+	'Planned'=> 'Tarefa Planejada' , 
 	'Send Notification'=> 'Enviar Notificação', 
 	'SINGLE_Calendar'=> 'Tarefa' ,
 	'SINGLE_Events' => 'Evento', 
@@ -95,7 +95,7 @@ $languageStrings = array(
         'Time Zone'=>'Fuso Horário',
         'Default Activity View'=>'Padrão Visualização Atividade',
 	'Held'=>'Realizada',
-        'Not Held'=>'Nao Realizada',
+        'Not Held'=>'Não Realizada',
 );
 
 $jsLanguageStrings = array(
