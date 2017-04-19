@@ -5,7 +5,7 @@
  * The Original Code is:vtiger CRM Open Source
  * The Initial Developer of the Original Code is vtiger.
  * Portions created by vtiger are Copyright (C) vtiger. All Rights Reserved.
- * Contributor(s): Valmir C. Trindade - Translate to Brazilian Portuguese - 17/09/2014 - www.ttcasolucoes.com.br
+ * Contributor(s): Valmir C. Trindade - Translate to Brazilian Portuguese - www.ttcasolucoes.com.br
  ************************************************************************************/
 $languageStrings = array(
 	'LBL_ADD_RECORD' => 'Adicionar Tarefa Projeto',
@@ -15,4 +15,14 @@ $languageStrings = array(
 	'LBL_TASKS_LIST' => 'Lista de Tarefas', 
 	'SINGLE_ProjectTask' => 'Tarefa Projeto',
         'LBL_MILESTONES_LIST' => 'Lista Milestones',
+	
+# LECS TTCA - TRADUCAO PRIORIDADES
+    	'low'   => 'Baixa',
+    	'normal' => 'Normal',
+    	'high'   => 'Alta',
+    	'Open'   => 'Aberto',
+    	'In Progress' => 'Em Progresso',
+    	'Deferred'    => 'Adiado',
+    	'Completed'   => 'Completado',
+    	'Canceled '   => 'Cancelado',
 );
